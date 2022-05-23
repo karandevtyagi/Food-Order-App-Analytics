@@ -25,8 +25,8 @@ This project uses mixpanel to answer various questions like:<br>
 
 * [Conversion and Retention Metrics](https://mixpanel.com/public/Qey9eXuGqu4xCv9atBJ5tv)
 
- <img src="./ss1.png" alt="Result" width="100" height="760">
+ <img src="./ss1.png" alt="Result" width="1000" height="760">
  <br>
  <div></div>
 
- <img src="./ss2.png" alt="Result" width="100" height="760">
+ <img src="./ss2.png" alt="Result" width="1000" height="760">
